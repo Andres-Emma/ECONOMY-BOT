@@ -1,0 +1,17 @@
+TOKEN = asdf.123.etc
+--Tu token de bot--
+
+PREFIX =!
+--¡Tu prefijo de bot, puedes hacerlo! -
+
+BOT_ACTIVITY_TYPE = ESCUCHANDO
+--Rellenar con => ESCUCHAR o REPRODUCIR o TRANSMITIR o MIRAR, etc. . <= (¡Puede verificar esto en dbd.js docs!) -
+
+BOT_ACTIVITY_TEXT = ¡invítame! | ¡Increíble bot económico!
+--¡Tu biografía de bot, puedes cambiar esto! -
+
+DAILY_SALARY = 100
+--Cantidad del salario diario (¿comandos? En economy / daily.js), ¡puedes cambiar esto! -
+
+SALARIO_MENSUAL = 4000
+--Cantidad de salario diario (comandos? En economía / mensual.js), ¡puedes cambiar esto! -
